@@ -1,0 +1,4 @@
+jar {
+    baseName = 'product'
+    version = '0.5.2'
+}
